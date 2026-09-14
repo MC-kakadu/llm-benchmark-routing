@@ -1,6 +1,6 @@
 # LLM Benchmark Routing Experiments
 
-Files and guides to reproduce the experiments of the paper "Cost-Effective Large Language Model Ensemble with Adaptive Benchmark-based Weighting and Dynamic Model Selection".
+Files and guides to reproduce the experiments of the paper "Cost-Effective Large Language Model Ensemble with Adaptive Benchmark-based Weighting and Dynamic Model Selection". (Under review)
 
 ## 📝 Authors
 Mukeun Choi_1 and Taeyeon Oh_2*
